@@ -4,16 +4,11 @@ An **end-to-end SQL analytics project** focused on inventory optimization, sales
 
 ---
 
-## 🚀 Project Overview
+## 🧩 Business Problem Statement
+Businesses often face challenges in managing inventory and sales efficiently, including overstocked or understocked products, slow-moving items tying up capital, and lack of visibility into customer buying behavior. Warehouse-level demand and inventory mismatches can lead to operational inefficiencies and revenue loss. This project addresses these issues by leveraging SQL to analyze transactional, inventory, and customer data to generate actionable insights that support data-driven decision-making.
 
-Businesses often face challenges such as:
-* Overstocked or understocked products
-* Inefficient reorder levels
-* Slow-moving inventory tying up capital
-* Lack of visibility into customer buying behavior
-* Warehouse-level demand vs inventory mismatch
-
-This project addresses these challenges by leveraging **SQL** to generate actionable insights across inventory, orders, customers, products, warehouses, and categories.
+## 🔍 Project Overview
+The project uses SQL to perform data cleaning, validation, and advanced querying across products, inventory, orders, customers, warehouses, and categories. It focuses on inventory optimization, sales performance, customer segmentation, and warehouse risk assessment to help businesses make informed decisions.
 
 ---
 ## 🛠️ Tools & Technologies
