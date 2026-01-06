@@ -1,1 +1,1 @@
-# Inventory-Management-Sales-Analytics-Project-SQL-
+# Inventory Management Sales Analytics Project (SQL)
