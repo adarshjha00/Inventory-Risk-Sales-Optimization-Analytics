@@ -1,4 +1,4 @@
-# 📦 Inventory Management & Sales Analytics Project (SQL)
+# 📦 Inventory Risk & Sales Optimization Analytics (SQL)
 
 An **end-to-end SQL analytics project** focused on inventory optimization, sales performance, customer behavior, and warehouse risk assessment. This project demonstrates **data cleaning, preparation, and advanced analytical querying** using real-world business problem statements.
 
