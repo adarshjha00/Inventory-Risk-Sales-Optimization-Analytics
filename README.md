@@ -20,10 +20,11 @@ This project addresses these challenges by leveraging **SQL** to generate action
 
 * **SQL (MySQL)**
 * Concepts Used:
+  * Case & Join
   * Data Cleaning & Standardization
   * Common Table Expressions (CTEs)
   * Window Functions (`LAG`)
-  * Subquery,Join
+  * Subquery
   * Aggregations (`SUM`, `AVG`, `COUNT`, `MIN`, `MAX`)
   * Conditional Logic (`CASE`)
   * NULL Handling (`COALESCE`)
