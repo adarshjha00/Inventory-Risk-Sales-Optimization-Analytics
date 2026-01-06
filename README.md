@@ -121,10 +121,11 @@ Key data preparation steps include:
 ```
 Inventory-Management-Analytics/
 │
-├── SQL_Scripts.sql        # Data cleaning + analytical queries (Q1–Q24)
-├── README.md              # Project documentation
-└── (Optional) PPT/Charts  # Presentation
-```
+├── SQL_Scripts.sql
+
+├── README.md
+ 
+└── Documentation 
 
 ---
 
