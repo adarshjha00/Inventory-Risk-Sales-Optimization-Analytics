@@ -119,8 +119,6 @@ Inventory-Management-Analytics/
 ├── SQL_Scripts.sql
 
 ├── README.md
- 
-└── Documentation 
 
 ---
 
